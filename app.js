@@ -44,8 +44,8 @@ var fps;
 var lastFrame = new Date();
 var lastFrameFrame = lastFrame;
 var title;
-var radioName = 'Cool Radio';
-var host = "https://stream.mydnic.be";
+var radioName = 'Ragasiam Radio';
+var host = "http://uk1.internet-radio.com:8251";
 
 function getUrlVars() {
     var vars = {};
